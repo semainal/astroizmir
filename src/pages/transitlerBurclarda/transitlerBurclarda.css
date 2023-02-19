@@ -1,0 +1,33 @@
+.gezegenlerEvlerde {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+
+.gezegenlerEvlerdeTitles {
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:"Lora",serif ;
+    color:black;
+    font-size: 30px;
+    background: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.3)), 
+    url("../../img/sim.jpg");
+}
+
+
+
+h5{
+    font-family:"Lora",serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.3)), 
+    url("../../img/sim.jpg");
+    margin-left: 50px;
+    margin-right: 50px;
+    color: black;
+}

@@ -1,0 +1,71 @@
+.login {
+    height: calc(100vh - 50px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.3)), 
+    url("../../img/astroizmir.png");
+    background-size: contain;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+
+.loginTitle {
+    font-size: 60px;
+    margin-top: -50px;
+    font-family:"Lora",serif ;
+    color: navy;
+   
+}
+
+.loginForm {
+    margin-top: 10px;
+    display:flex;
+    flex-direction: column;
+    font-family:"Lora",serif ;
+
+}
+
+.loginForm >label {
+    margin: 10px 0;
+
+}
+
+.loginInput {
+    padding: 10px;
+    background-color: white;
+    border: none;
+
+}
+
+.loginButton {
+    margin-top: 50px;
+    cursor: pointer;
+    background-image: url("../../img/topButton.jpg");
+    border:none;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+.loginButton:disabled{
+    cursor: not-allowed;
+    background-image: url("../../img/topButton.jpg");
+}
+
+.loginRegisterButton {
+    position: absolute;
+    top: 125px;
+    right: 60px;
+    background-image: url("../../img/topButton.jpg");
+    border:1px solid;
+    cursor: pointer;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+
+}

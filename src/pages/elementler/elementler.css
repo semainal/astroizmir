@@ -1,0 +1,58 @@
+.elementler {
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+
+.elementlerTitles {
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:"Lora",serif ;
+    color:black;
+    font-size: 30px;
+    background: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.3)), 
+    url("../../img/sim.jpg");
+}
+
+.elementlerImg {
+    width: 100%;
+    margin: 10px;
+    align-self: center;
+}
+
+.elementlerSubText{
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:"Lora",serif ;
+
+}
+
+.elementlerCard{
+    display: flex;
+    flex:3;
+    flex-direction: column;
+}
+
+.elementlerSubImg{
+    width: 50%;
+    align-self: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+
+
+.col-md-4{
+    align-self: center;
+    text-align: center;
+}
+
+
+.card {
+    margin: 50px;
+}

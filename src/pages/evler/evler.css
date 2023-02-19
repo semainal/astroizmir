@@ -1,0 +1,53 @@
+.evler {
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+
+.evlerTitles {
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:"Lora",serif ;
+    color:black;
+    font-size: 30px;
+    background: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.3)), 
+    url("../../img/sim.jpg");
+}
+
+
+.evlerImg {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    align-self: center;
+}
+
+.evlerSubTitles {
+    font-family:"Lora",serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(33, 15, 97);
+    
+}
+
+.col-md-4{
+    align-self: center;
+    text-align: center;
+}
+
+h5{
+    font-family:"Lora",serif;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.evlerImg:hover {
+    -ms-transform: scale(1.3); 
+    -webkit-transform: scale(1.3); 
+     transform: scale(1.7); 
+   }

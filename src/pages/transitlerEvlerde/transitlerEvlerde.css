@@ -1,0 +1,37 @@
+.transitler {
+    margin-right: 50px;
+    margin-left: 50px;
+
+}
+
+
+.transitlerTitles {
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:"Lora",serif ;
+    color: rgb(33, 15, 97);
+    font-size: 30px;
+}
+
+
+.transitlerImg {
+    width: 50%;
+    align-self: center;
+}
+
+.transitlerSubTitles {
+    font-family:"Lora",serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(33, 15, 97);
+    
+}
+
+.col-md-2{
+    align-self: center;
+    text-align: center;
+}
+

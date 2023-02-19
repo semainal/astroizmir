@@ -1,0 +1,62 @@
+.acilar {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+
+.acilarTitles {
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:"Lora",serif ;
+    color:black;
+    font-size: 30px;
+    background: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.3)), 
+    url("../../img/sim.jpg");
+}
+
+
+.acilarImg {
+    width: 50%;
+    align-self: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.acilarSubText{
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:"Lora",serif ;
+
+}
+
+.acilarCard{
+    display: flex;
+    flex:3;
+    flex-direction: column;
+}
+
+.acilarSubImg{
+    width: 50%;
+    align-self: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+
+
+.col-md-4{
+    align-self: center;
+    text-align: center;
+}
+
+h5{
+    font-family:"Lora",serif;
+    display: flex;
+    flex-direction: column;
+ 
+}
+

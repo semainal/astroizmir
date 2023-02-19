@@ -1,0 +1,29 @@
+.contact{
+
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.contactTitle {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 40px;
+    color: rgb(33, 15, 97);
+    font-family: "Lora", sans-serif;
+
+}
+
+.contactInfo {
+    text-align: center;
+    font-size: 20px;
+    line-height: 50px;
+    color: rgb(33, 15, 97);
+    margin-bottom: 20px;
+    font-family: "Lora", sans-serif;
+    margin-top: -15px;
+}
+
+.contactIcon {
+    margin-right: 15px;
+}

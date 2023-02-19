@@ -1,0 +1,59 @@
+.gezegenler {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+
+.gezegenlerTitles {
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:"Lora",serif ;
+    color:black;
+    font-size: 30px;
+    background: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.3)), 
+    url("../../img/sim.jpg");
+}
+
+
+
+.gezegenlerImg {
+    width:50%;
+ 
+    margin: 20px;
+    align-self: center;
+}
+
+.gezegenSubTitles {
+    font-family:"Lora",serif;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    color: rgb(33, 15, 97);
+
+    
+}
+
+.col-md-2{
+    align-self: center;
+    text-align: center;
+}
+
+h5{
+    font-family:"Lora",serif;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
+
+h4{
+    font-family:"Lora",serif;
+    display: flex;
+    flex-direction: column;
+    color: rgb(33, 15, 97);
+    text-align: center;
+}
+
+
+
